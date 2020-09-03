@@ -2,9 +2,11 @@
 <html>
 <head>
 	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	hello world
-	new line
+	<div id="box">
+		hello world
+	</div>
 </body>
 </html>
